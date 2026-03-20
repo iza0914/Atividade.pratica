@@ -1,0 +1,25 @@
+@import url('style.css');
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: rgba(152, 81, 36, 0.655);
+    color: rgb(75, 2, 2);
+}
+
+td{
+    color: rgb(75, 2, 2);
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+}
+
+tfoot{
+    background-color: rgb(226, 167, 95);
+}
+ tfoot td{
+    color: rgb(160, 86, 21);
+ }
